@@ -10,4 +10,4 @@ public class CnuRealcodingDogManagement12Application {
 		SpringApplication.run(CnuRealcodingDogManagement12Application.class, args);
 	}
 
-}
+} // baesihyeon 
